@@ -1,4 +1,4 @@
-# SAS-Secure-Apache-HTTPD-MariaDB-and-Firewall-Configuration-on-CentOS-7
+# SAS-Linux Server Hardening and Security Implementation Secure-Apache-HTTPD-MariaDB-and-Firewall-Configuration-on-CentOS-7
 # System Administration & Security: Apache HTTPD, MariaDB, and Firewall Hardening on CentOS 7
 
 This project demonstrates hands-on experience in **system administration and security**, showcasing the deployment, configuration, and hardening of Linux servers to industry-standard security practices.
